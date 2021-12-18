@@ -1,0 +1,16 @@
+C:\Users\András\Desktop\nemes\birtok\bin\Debug\net5.0\birtok.exe
+C:\Users\András\Desktop\nemes\birtok\bin\Debug\net5.0\birtok.deps.json
+C:\Users\András\Desktop\nemes\birtok\bin\Debug\net5.0\birtok.runtimeconfig.json
+C:\Users\András\Desktop\nemes\birtok\bin\Debug\net5.0\birtok.runtimeconfig.dev.json
+C:\Users\András\Desktop\nemes\birtok\bin\Debug\net5.0\birtok.dll
+C:\Users\András\Desktop\nemes\birtok\bin\Debug\net5.0\ref\birtok.dll
+C:\Users\András\Desktop\nemes\birtok\bin\Debug\net5.0\birtok.pdb
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.csproj.AssemblyReference.cache
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.AssemblyInfoInputs.cache
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.AssemblyInfo.cs
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.csproj.CoreCompileInputs.cache
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.dll
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\ref\birtok.dll
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.pdb
+C:\Users\András\Desktop\nemes\birtok\obj\Debug\net5.0\birtok.genruntimeconfig.cache

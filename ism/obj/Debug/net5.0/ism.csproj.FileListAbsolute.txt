@@ -1,0 +1,16 @@
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.csproj.AssemblyReference.cache
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.AssemblyInfoInputs.cache
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.AssemblyInfo.cs
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.csproj.CoreCompileInputs.cache
+C:\Users\András\Desktop\nemes\ism\bin\Debug\net5.0\ism.exe
+C:\Users\András\Desktop\nemes\ism\bin\Debug\net5.0\ism.deps.json
+C:\Users\András\Desktop\nemes\ism\bin\Debug\net5.0\ism.runtimeconfig.json
+C:\Users\András\Desktop\nemes\ism\bin\Debug\net5.0\ism.runtimeconfig.dev.json
+C:\Users\András\Desktop\nemes\ism\bin\Debug\net5.0\ism.dll
+C:\Users\András\Desktop\nemes\ism\bin\Debug\net5.0\ref\ism.dll
+C:\Users\András\Desktop\nemes\ism\bin\Debug\net5.0\ism.pdb
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.dll
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ref\ism.dll
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.pdb
+C:\Users\András\Desktop\nemes\ism\obj\Debug\net5.0\ism.genruntimeconfig.cache

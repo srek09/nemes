@@ -1,0 +1,16 @@
+C:\Users\András\Desktop\nemes\topart\bin\Debug\net5.0\topart.exe
+C:\Users\András\Desktop\nemes\topart\bin\Debug\net5.0\topart.deps.json
+C:\Users\András\Desktop\nemes\topart\bin\Debug\net5.0\topart.runtimeconfig.json
+C:\Users\András\Desktop\nemes\topart\bin\Debug\net5.0\topart.runtimeconfig.dev.json
+C:\Users\András\Desktop\nemes\topart\bin\Debug\net5.0\topart.dll
+C:\Users\András\Desktop\nemes\topart\bin\Debug\net5.0\ref\topart.dll
+C:\Users\András\Desktop\nemes\topart\bin\Debug\net5.0\topart.pdb
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.csproj.AssemblyReference.cache
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.AssemblyInfoInputs.cache
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.AssemblyInfo.cs
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.csproj.CoreCompileInputs.cache
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.dll
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\ref\topart.dll
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.pdb
+C:\Users\András\Desktop\nemes\topart\obj\Debug\net5.0\topart.genruntimeconfig.cache
