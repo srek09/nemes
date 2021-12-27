@@ -30,8 +30,6 @@ namespace birtok
             finally
             {
             }
-            Console.WriteLine(-1);
-
         }
         static int[] Output(int[] birtokok)
         {

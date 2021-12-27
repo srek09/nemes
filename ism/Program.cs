@@ -1,13 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Diagnostics;
 namespace ism
 {
     class Program
     {
         static void Main(string[] args)
         {
-            string[] temp = Console.ReadLine().Split(' ');
+            Stopwatch asdf = new Stopwatch();
+            asdf.Start();
+            string[] temp = "99999 999999 999999 999999 9999 999999".Split(' ');
             int[] data = new int[temp.Length];
             for (int i = 0; i < data.Length; i++)
             {
@@ -33,6 +36,8 @@ namespace ism
             }
             valid = valid.OrderByDescending(arr => arr[1]).ToList();
             Console.WriteLine(valid[0][0].ToString() + ' ' + valid[0][1]);
+            asdf.Stop();
+            System.Console.WriteLine("elapsed ms is {0}.", asdf.ElapsedMilliseconds);
         }
     }
 }

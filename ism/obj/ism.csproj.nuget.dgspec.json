@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\András\\Desktop\\nemes\\ism\\ism.csproj": {}
+    "D:\\programing\\github\\nemes\\ism\\ism.csproj": {}
   },
   "projects": {
-    "C:\\Users\\András\\Desktop\\nemes\\ism\\ism.csproj": {
+    "D:\\programing\\github\\nemes\\ism\\ism.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\András\\Desktop\\nemes\\ism\\ism.csproj",
+        "projectUniqueName": "D:\\programing\\github\\nemes\\ism\\ism.csproj",
         "projectName": "ism",
-        "projectPath": "C:\\Users\\András\\Desktop\\nemes\\ism\\ism.csproj",
+        "projectPath": "D:\\programing\\github\\nemes\\ism\\ism.csproj",
         "packagesPath": "C:\\Users\\András\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\András\\Desktop\\nemes\\ism\\obj\\",
+        "outputPath": "D:\\programing\\github\\nemes\\ism\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
